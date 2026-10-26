@@ -2,7 +2,7 @@
 #  Persistencia en Docker
 ## 26 de octubre del 2026
 ## Samuel Rivas Fernández
-![][portada]
+![](../03-DescargaInspeccionaYBorraImagenes/img/portada.png)
 
 ## **Creación y uso de volúmenes**
 
